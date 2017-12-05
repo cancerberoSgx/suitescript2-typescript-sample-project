@@ -1,4 +1,4 @@
-# git 
+# Writing SuiteScript 2.0 with TypeScript 
 
 ## Install
 
