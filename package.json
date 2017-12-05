@@ -1,0 +1,26 @@
+{
+  "name": "suitescript2-typescript-sample-project",
+  "version": "1.0.0",
+  "description": "example of how to develop suitelet with typescript 2.0 and using typescript language",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2017.2.14",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
+    "netsuite-uploader-util": "^1.1.3",
+    "shelljs": "^0.7.8",
+    "typescript": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node node_modules/typescript/bin/tsc",
+    "devel": "gulp"
+  },
+  "keywords": [
+    "suitescript",
+    "typescript"
+  ],
+  "author": "sg",
+  "license": "ISC"
+}
