@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "example of how to develop suitelet with typescript 2.0 and using typescript language",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.19.3"
+  },
   "devDependencies": {
     "@hitc/netsuite-types": "^2017.2.14",
     "gulp": "^3.9.1",

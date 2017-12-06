@@ -5,7 +5,7 @@ var shell = require('shelljs')
 var path = require('path')
 
 // "Constants"
-var watchFilter = 'output/**/*.js'
+var watchFilter = 'output/test2.js' // our entry point - you can use globs but upload will currently fail because of concurrent 
 var account = '3690872'
 var role = 3
 var folderPath = 'SuiteScripts'
