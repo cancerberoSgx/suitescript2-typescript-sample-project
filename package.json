@@ -1,6 +1,6 @@
 {
   "name": "suitescript2-typescript-sample-project",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "example of how to develop suitelet with typescript 2.0 and using typescript language with devtools that autodetect changes - compile and upload",
   "main": "index.js",
   "dependencies": {},
